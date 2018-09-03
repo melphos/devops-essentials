@@ -10,7 +10,9 @@ Existe uma divergência de informações em nossa referência de estudo.
 
 Se formos nos basear pelo livro **Effective DevOps** em seu capítulo 6 (Chapter 6. The Four Pillars of Effective Devops):
 
-Pelo material da IT Certs
+![](img/4_pilares_devops.PNG)
+
+Pelo material da IT Certs, eles recomendam o livro: **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ** 
 
 # Maturidade
 ![](img/maturidade.PNG)
